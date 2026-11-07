@@ -1,7 +1,5 @@
 ![Profile](https://raw.githubusercontent.com/Nemacyst/Nemacyst/main/profile-image.jpg)
 
-## Hi there 👋
-
 <!--
 **Nemacyst/Nemacyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
