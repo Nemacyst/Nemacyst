@@ -1,3 +1,5 @@
+![Profile](https://raw.githubusercontent.com/Nemacyst/Nemacyst/main/profile-image.jpg)
+
 ## Hi there 👋
 
 <!--
