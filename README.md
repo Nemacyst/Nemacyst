@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Nemacyst/Nemacyst/main/profile-image.jpg" width="450" alt="Profile" />
+![Profile](https://raw.githubusercontent.com/Nemacyst/Nemacyst/main/profile-image.jpg)
 
 <!--
 **Nemacyst/Nemacyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
